@@ -1,4 +1,4 @@
-# SCARPA SEO & AI-Search Overhaul
+# SCARPA SEO & AI-Search Project
 
 **Case Study | SEO Strategy | AI-Ready Content Systems**
 
