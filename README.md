@@ -80,5 +80,6 @@ flowchart LR
 
 ## 📄 License
 
-MIT — documentation and structure only.
+MIT — documentation and system design patterns only. Proprietary product copy, data, and internal materials are intentionally excluded.
+
 
